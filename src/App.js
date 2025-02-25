@@ -1,11 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="text-lg font-bold text-red-400">
-      Hello everyone!!!
-    </div>
+   <Body />
   );
 }
 
